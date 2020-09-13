@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MrFriggo/MrFriggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Friggo</h1>
+
+#### I'm a "Developer" from Czech republic.
+- ⚙️ I use daily: `.ts`, `.html`, `.css`, `.php`
+- 🌱 I’m currently working on `new website`.
+- 📫 Discord: brokenFriggo#0470
+- ⚡ Fun fact: 
+
+#### 🎧 Spotify
+[![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21srvdshuo7yl7yvu47j2nivqz)
