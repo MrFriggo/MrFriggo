@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### I'm a "Developer" from Czech republic.
 - ⚙️ I use daily: `.ts`, `.html`, `.css`, `.php`
 - 🌱 I’m currently working on `new website`.
-- 📫 Discord: brokenFriggo#0470
+- 📫 Discord: justFriggo#0470
 - ⚡ Fun fact: 
 
 #### 🎧 Spotify
