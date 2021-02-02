@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Friggo</h1>
 
 #### I'm a "Developer" from Czech republic.
-- ⚙️ I use daily: `.ts`, `.html`, `.css`, `.php`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
 - 🌱 I’m currently working on `new website`.
 - 📫 Discord: justFriggo#0470
 - ⚡ Fun fact: 
