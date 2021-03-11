@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm a "Developer" from Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
-- 🌱 I’m currently working on `new website`.
+- 🌱 I’m currently working on `BeastBlock.cz`.
 - 📫 Discord: justFriggo#0470
 - ⚡ Fun fact: 
 
