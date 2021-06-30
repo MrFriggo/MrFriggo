@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 #### I'm a "Developer" from Czech republic.
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
 - 🌱 I’m currently working on `BeastBlock.cz`.
-- 📫 Discord: justFriggo#0470
-- ⚡ Fun fact: 
+- 📫 Discord: `justFriggo#0470`
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 #### 🎧 Spotify
 [![Spotify](https://novatorem-delta-eight.vercel.app/api/spotify)](https://open.spotify.com/user/21srvdshuo7yl7yvu47j2nivqz)
