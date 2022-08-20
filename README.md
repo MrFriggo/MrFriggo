@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
 - 🌱 I’m currently working on `BeastBlock.cz`.
 - 📫 Reach me @ Discord as `Friggo#0470`
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
