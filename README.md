@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
 - 🌱 I’m currently working on `BeastBlock.cz`.
 - 📫 Reach me @ Discord as `Friggo#0470`
+- ⚡ Fun fact: Big Fan of the 🌙 emoji
+
+-------
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
