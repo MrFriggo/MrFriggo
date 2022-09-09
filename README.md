@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 48 mins
+Total Time: 2 hrs 53 mins
 
-Other   3 hrs 29 mins   ███████████████████████░░   91.96 %
+Other   2 hrs 35 mins   ██████████████████████▒░░   89.45 %
 ```
 
 <!--END_SECTION:waka-->
