@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 25 mins
+Total Time: 1 hr 16 mins
 
-Other   25 mins         █████████████████████████   100.00 %
+Vue.js   36 mins         ████████████░░░░░░░░░░░░░   47.68 %
+Other    25 mins         ████████▒░░░░░░░░░░░░░░░░   33.22 %
 ```
 
 <!--END_SECTION:waka-->
