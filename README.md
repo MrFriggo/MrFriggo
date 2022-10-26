@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 hrs 26 mins
+Total Time: 8 hrs 54 mins
 
-Vue.js           4 hrs 50 mins   ████████████▓░░░░░░░░░░░░   51.33 %
-CSS              2 hrs 59 mins   ████████░░░░░░░░░░░░░░░░░   31.72 %
-Blade Template   58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Vue.js           3 hrs 59 mins   ███████████▒░░░░░░░░░░░░░   44.88 %
+CSS              3 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.46 %
+Blade Template   1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JavaScript       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
