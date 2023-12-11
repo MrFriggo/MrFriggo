@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Friggo</h1>
 
 #### I'm a "Developer" from Czech republic.
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.php`
-- 🌱 I’m currently working on `BeastBlock.cz`.
-- 📫 Reach me @ Discord as `Friggo#0470`
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.html`, `.css`, `.php`
+<!--- 🌱 I’m currently working on `BeastBlock.cz`.-->
+- 📫 Reach me @ Discord as `friggo`
+- 😄 Pronouns: `he/him`
 - ⚡ Fun fact: Big Fan of the 🌙 emoji
 
 -------
