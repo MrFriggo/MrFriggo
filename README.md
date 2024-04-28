@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Friggo</h1>
 
 #### I'm a "Developer" from Czech republic.
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.html`, `.css`, `.php`
+- ⚙️ I use daily: `.jsx`, `.tsx`, `.css`
 - 📫 Reach me @ Discord as `friggo`
 - 😄 Pronouns: `he/him`
 - ⚡ Fun fact: Big Fan of the 🌙 emoji
